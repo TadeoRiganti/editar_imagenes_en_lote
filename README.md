@@ -20,12 +20,7 @@ Modifica el brillo de todas las imagenes que se encuentren en un directorio.
 #### Version 1
 - El script se controla desde un editor de texto, cambiando el valor de las variables `directorio_imagenes` y `factor` del script.
 - Las nuevas imagenes se guardan con el mismo nombre en la misma carpeta.
-
-#### Version 1
-
-El script se manejara desde un editor de texto y se controlara mediante variables:
-- directorio_imagenes
-- factor_brillo 
+- Puntuación UX: ★☆☆☆☆
 
 <hr>
 

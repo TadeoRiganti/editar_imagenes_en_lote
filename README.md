@@ -11,17 +11,13 @@ La intención de este repositorio es experimentar con librerias de procesamiento
 2. Documentar cada tecnica / metodo.
 3. Implementarlo como herramientas de trabajo.
 
-## Lista de scripts
+## Compendio de scripts
 
 ### Modificar el brillo
 
-- Objetivo: Aumentar el brillo en un 20%.
-- Libreria: Pilow (PIL Fork)
-- Materiales: Imagenes dentro de una carpeta.
-- Tareas: 
-  - Abrir imagen carpeta origen. 
-  - Modificar imagen segun los parametros.
-  - Guardar el output en carpeta destino. 
+#### Version 1
+Modificar el brillo de todas las imagenes dentro de una carpeta y sobre-escribir los archivos.
+El script se controla cambiando el valor de las variables `directorio_imagenes` y `factor` del script.
 
 #### Version 1
 

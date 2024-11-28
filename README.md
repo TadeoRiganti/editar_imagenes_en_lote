@@ -15,9 +15,11 @@ La intención de este repositorio es experimentar con librerias de procesamiento
 
 ### Modificar el brillo
 
+Modifica el brillo de todas las imagenes que se encuentren en un directorio.
+
 #### Version 1
-Modificar el brillo de todas las imagenes dentro de una carpeta y sobre-escribir los archivos.
-El script se controla cambiando el valor de las variables `directorio_imagenes` y `factor` del script.
+- El script se controla desde un editor de texto, cambiando el valor de las variables `directorio_imagenes` y `factor` del script.
+- Las nuevas imagenes se guardan con el mismo nombre en la misma carpeta.
 
 #### Version 1
 

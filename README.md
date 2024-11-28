@@ -34,8 +34,17 @@ El script se manejara desde un editor de texto y se controlara mediante variable
 ## Lista de tareas
 
 - [x] Crear repositorio
-- [x] Completar README.md
+- [x] Completar `README.md`
 - [x] Crear branch 'script_brightness'
 - [ ] Agregar una tabla de contenidos dentro del README.md
-- [ ] Armar la Home de la WIKI
-- [ ] Documentar 'script_brightness'  
+- [x] Armar la Home de la WIKI
+    - [x] Home
+       - [x] Sobre el proyecto
+          - [ ] Introducción
+          - [ ] Compendio de scripts 
+          - [x] Script - Modificar brillo
+             - [x] Version 1 
+       - [x] Documentacion tecnica
+          - [ ] Activar Entorno virtual
+          - [ ] Crear `Requirements.txt`
+          - [ ] Instalar librerias con `Requirements.txt`
